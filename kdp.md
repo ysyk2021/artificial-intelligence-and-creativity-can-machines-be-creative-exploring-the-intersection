@@ -10,11 +10,8 @@ We'll also explore the challenges of integrating AI technologies into the creati
 
 Whether you're an artist, researcher, or simply interested in the future of creativity, this book is your comprehensive guide to exploring the intersection of AI and creativity. By examining the latest advancements in technology and their impact on the creative process, we'll gain a better understanding of the potential for machines to produce works of art and the ways in which they can enhance and augment human creativity.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
-
-
-Certainly! Here are 20 Amazon search keywords related to "Artificial Intelligence and Creativity: Can Machines Be Creative? Exploring the Intersection of Art and Science":
 
 1. Creative AI
 2. Computational creativity
