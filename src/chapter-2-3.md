@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has become an increasingly important topic across all industries. At the core of AI is machine learning, which involves using algorithms to analyze large datasets and identify patterns, allowing machines to learn and make predictions or decisions. In this chapter, we will explore some of the key machine learning techniques used in AI.
 

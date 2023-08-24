@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) encompasses a broad range of technologies and approaches aimed at simulating human-like intelligence in machines. In this chapter, we will explore the different types of AI and how they are used.
 

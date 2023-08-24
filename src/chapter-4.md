@@ -1,5 +1,3 @@
-Chapter 4: AI and Creativity
-============================
 
 Artificial intelligence (AI) has the potential to revolutionize creative fields, from generating original works of art, music, and literature to simplifying the creative process. In this chapter, we will explore the relationship between AI and creativity.
 

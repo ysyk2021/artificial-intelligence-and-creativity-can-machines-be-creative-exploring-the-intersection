@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Creativity
-======================================
 
 As artificial intelligence (AI) continues to develop and evolve, its impact on creative fields is likely to grow. In this chapter, we will explore some of the emerging trends and future prospects for AI in creativity.
 

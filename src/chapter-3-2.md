@@ -1,5 +1,3 @@
-Theories of Creativity
-======================================================
 
 Creativity is a complex and multifaceted phenomenon that has been studied from a variety of perspectives and fields. In this chapter, we will explore some of the major theories of creativity.
 

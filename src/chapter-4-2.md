@@ -1,5 +1,3 @@
-Examples of AI in the Creative Fields
-===================================================================
 
 Artificial intelligence (AI) has begun to permeate all aspects of life, including the creative fields such as music, art, and literature. In this chapter, we will explore some of the examples of AI being used in the creative industries.
 

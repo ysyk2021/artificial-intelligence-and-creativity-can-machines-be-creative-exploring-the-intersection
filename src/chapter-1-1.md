@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Creativity
-===========================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to transform many aspects of our lives, including the creative arts. In this chapter, we will provide an overview of AI and creativity, as well as explore some of the key questions and debates surrounding this emerging field.
 

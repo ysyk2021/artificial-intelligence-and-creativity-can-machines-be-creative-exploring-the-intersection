@@ -1,5 +1,3 @@
-Can Machines Be Creative?
-=======================================================
 
 As the capabilities of artificial intelligence (AI) continue to expand, there is growing interest in the question of whether machines can exhibit creative behaviors. In this chapter, we will explore the potential for AI to display creativity.
 

@@ -1,5 +1,3 @@
-Definitions of Creativity
-=========================================================
 
 Defining creativity has been a longstanding challenge, given the elusive and multifaceted nature of this phenomenon. In this chapter, we will explore some of the different definitions of creativity.
 

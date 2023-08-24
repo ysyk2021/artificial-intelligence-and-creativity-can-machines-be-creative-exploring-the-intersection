@@ -1,5 +1,3 @@
-Ownership of AI-Generated Works
-================================================================================================
 
 As artificial intelligence (AI) continues to make strides in the creative arts, questions regarding ownership and copyright of AI-generated works have become increasingly important. In this chapter, we will explore the ethical and legal issues related to ownership of AI-generated works.
 

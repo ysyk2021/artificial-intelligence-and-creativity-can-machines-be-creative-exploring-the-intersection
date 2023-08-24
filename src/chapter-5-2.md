@@ -1,5 +1,3 @@
-Creative Collaboration between Humans and Machines
-============================================================================================
 
 In this book, we have explored the question of whether machines can be creative, and we have seen that AI has made significant advances in several creative domains, including music, visual art, and literature. However, AI-generated works often lack the nuance and subtlety that human creators bring to the creative process. To address this limitation, there is an increasing interest in exploring creative collaboration between humans and machines.
 

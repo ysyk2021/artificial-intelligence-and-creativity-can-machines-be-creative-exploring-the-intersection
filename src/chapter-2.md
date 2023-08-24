@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Before delving into the intersection of AI and creativity, it is important to understand the basics of artificial intelligence. In this chapter, we will explore the history, types, and machine learning techniques of AI.
 

@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Creativity
-===============================================================
 
 As artificial intelligence (AI) continues to transform creative fields, there are a number of ethical and legal issues that must be considered. In this chapter, we will explore some of these issues, including ownership of AI-generated works and copyright and intellectual property concerns.
 

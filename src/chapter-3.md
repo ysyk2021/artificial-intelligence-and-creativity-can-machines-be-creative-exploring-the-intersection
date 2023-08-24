@@ -1,5 +1,3 @@
-Chapter 3: What is Creativity?
-==============================
 
 Creativity is a complex and multifaceted concept that has been studied by researchers from a variety of disciplines. In this chapter, we will explore some of the different definitions and theories of creativity.
 

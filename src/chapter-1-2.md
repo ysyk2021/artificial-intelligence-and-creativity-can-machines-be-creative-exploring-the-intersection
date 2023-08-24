@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Artificial intelligence (AI) has advanced rapidly in recent years and is increasingly being used in a variety of fields, including music, art, literature, and design. The question of whether machines can be creative has sparked much debate and speculation among artists, scientists, and researchers alike.
 

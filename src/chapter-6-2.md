@@ -1,5 +1,3 @@
-Copyright and Intellectual Property
-====================================================================================================
 
 As artificial intelligence (AI) is increasingly used in the creative arts, questions regarding copyright and intellectual property protection have come to the forefront. In this chapter, we will examine the ethical and legal issues related to copyright and intellectual property in the context of AI-generated works.
 

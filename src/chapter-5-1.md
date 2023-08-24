@@ -1,5 +1,3 @@
-Music, Art, and Literature Generation
-===============================================================================
 
 In this book, we have explored the question of whether machines can be creative. While there is still debate about the subjective nature of creativity and the role of human intuition and emotion in the creative process, AI has made significant inroads in generating music, art, and literature. In this chapter, we will examine some of the most promising developments in AI-powered creative solutions in these three domains.
 
