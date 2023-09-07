@@ -22,3 +22,4 @@
 - [Chapter 7: Future of AI and Creativity](chapter-7.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

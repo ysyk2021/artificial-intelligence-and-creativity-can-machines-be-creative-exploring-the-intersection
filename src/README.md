@@ -8,3 +8,7 @@ We'll also explore the challenges of integrating AI technologies into the creati
 Whether you're an artist, researcher, or simply interested in the future of creativity, this book is your comprehensive guide to exploring the intersection of AI and creativity. By examining the latest advancements in technology and their impact on the creative process, we'll gain a better understanding of the potential for machines to produce works of art and the ways in which they can enhance and augment human creativity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
