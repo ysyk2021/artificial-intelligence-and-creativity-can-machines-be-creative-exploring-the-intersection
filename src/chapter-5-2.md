@@ -1,5 +1,4 @@
-Chapter 5: Creative Collaboration between Humans and Machines
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the concept of creative collaboration between humans and machines. We explore how artificial intelligence (AI) can augment human creativity, inspire new ideas, and foster a symbiotic relationship that pushes the boundaries of artistic expression.
 

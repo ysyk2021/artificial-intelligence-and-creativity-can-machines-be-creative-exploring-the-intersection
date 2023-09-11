@@ -1,5 +1,4 @@
-Chapter 2: Definitions of Creativity
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the various definitions and interpretations of creativity within the context of artificial intelligence (AI) and its intersection with art and science. We explore different perspectives on what constitutes creativity and how machines can exhibit creative behaviors based on these definitions.
 

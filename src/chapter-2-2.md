@@ -1,5 +1,4 @@
-Chapter 2: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the different types of artificial intelligence (AI) and their implications for creativity. From narrow AI to general AI and beyond, understanding the various types of AI systems is crucial in comprehending the capabilities and limitations of machines in creative endeavors.
 

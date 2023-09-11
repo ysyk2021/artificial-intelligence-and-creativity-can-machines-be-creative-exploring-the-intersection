@@ -1,5 +1,4 @@
-Chapter 2: Can Machines Be Creative?
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the intriguing question of whether machines can possess creativity and explore the intersection of art and science in the context of artificial intelligence.
 

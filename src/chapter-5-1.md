@@ -1,5 +1,4 @@
-Chapter 4: Music, Art, and Literature Generation
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how artificial intelligence (AI) is transforming the fields of music, art, and literature through generative models and algorithms. We delve into the advancements in AI that enable machines to create original compositions, generate visual artworks, and even write compelling pieces of literature.
 

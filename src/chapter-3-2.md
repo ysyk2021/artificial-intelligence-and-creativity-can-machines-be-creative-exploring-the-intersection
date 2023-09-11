@@ -1,5 +1,4 @@
-Chapter 3: Theories of Creativity
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the theories of creativity and examine how they intersect with artificial intelligence (AI). We explore various perspectives on what constitutes creativity and discuss how machines can exhibit creative behaviors within the context of these theories.
 

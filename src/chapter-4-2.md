@@ -1,5 +1,4 @@
-Chapter 4: Examples of AI in the Creative Fields
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various examples of how artificial intelligence (AI) is making a significant impact on creativity across different artistic disciplines. From music composition to visual arts and literature, AI demonstrates its potential to augment and inspire human creativity.
 

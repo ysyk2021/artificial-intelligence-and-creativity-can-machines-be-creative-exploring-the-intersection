@@ -1,5 +1,4 @@
-Chapter 3: Machine Learning Techniques
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive into the various machine learning techniques that play a crucial role in artificial intelligence and creativity. These techniques enable machines to learn from data, extract patterns, and generate creative outputs across different artistic domains.
 
